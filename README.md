@@ -1,7 +1,3 @@
-Shabash Abrish! 💪 Here's an even more **detailed version** of the `README.md` file for your complete assignments folder — professionally written, clear, and comprehensive. You can directly copy this into your `README.md` file:
-
----
-
 # 🐍 Python Assignments Collection – Complete Guide
 
 Welcome to the collection of Python assignments and mini-projects designed to strengthen your Python programming fundamentals and logical problem-solving skills. This repository is structured into **three assignments**, each progressing from basic syntax to creative mini-projects.
